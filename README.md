@@ -7,7 +7,7 @@
     </a><br>
     <b>Junior :</b><br>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,godot," />
+        <img src="https://skillicons.dev/icons?i=cs,godot" />
     </a><br>
     <b>Studying this:</b><br>
     <a href="https://skillicons.dev">
