@@ -1,7 +1,8 @@
 <!-- Skills -->
 
-<p align="center">
     ![](https://komarev.com/ghpvc/?username=Hyakki1327&color=blueviolet)
+    
+<p align="center">
     <b>I working in:</b><br>
         <img src="https://skillicons.dev/icons?i=blender,visualstudio,vscode,ps,unity" />
     <br>
