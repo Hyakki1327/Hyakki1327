@@ -1,5 +1,16 @@
-<h2 align="center">
+<!-- Skills -->
 
-![Greetings](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58C8E7&width=435&lines=Hi!+I`m+Soloviev+Ivan+;3D+Artist,+Unity+Enjoyer.;:3)
-
-</h2 >
+<p align="center">
+    <b>I working in:</b>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=blender,visualstudio,vscode,ps,unity" />
+    </a>
+    <b>Junior :</b>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,godot," />
+    </a>
+    <b>Studying this:</b>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,unreal" />
+    </a>
+</p>
