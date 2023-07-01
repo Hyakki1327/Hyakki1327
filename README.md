@@ -2,12 +2,13 @@
 
 # Обо мне
 
-Соловьев Иван, Россия, Екатеринбург
+<i>Соловьев Иван, Россия, Екатеринбург</i>
 
-- 9 классов + 4 курса ПТУ (Техник-программист)
-- Активно изучаю 3D (Blender)
-- Менее активно изучаю GameDev (Unity)
-- Хорошо владею WindowsForm (VSC|C#)
+- 9 классов + 4 курса ПТУ [Техник-программист]
+- Активно изучаю 3D [Blender]
+- Менее активно изучаю GameDev [Unity]
+- Хорошо владею WindowsForm [Visual Studio Code | C#]
+- Заинтересован в GameDev 🕹
 
 <!-- Skills -->
 
@@ -25,10 +26,10 @@
 
 <!-- HardWare -->
 
-# HardWare
+# HardWare ⚙️
 
-OS - Windows 11
-CPU - AMD Ryzen 5 1600 Six-Core Processor 3.20 GHz
-RAM - Corsair value select 8gb*2
-Motherboard - ASUS PRIME A320M-K
-GPU - GIGABYTE GEFORCE GTX 1660
+- OS - Windows 11
+- CPU - AMD Ryzen 5 1600 Six-Core Processor 3.20 GHz
+- RAM - Corsair value select 8gb*2
+- Motherboard - ASUS PRIME A320M-K
+- GPU - GIGABYTE GEFORCE GTX 1660
